@@ -1,6 +1,6 @@
 ### Hi there, I'm Christopher.
 
-I currently work as a controls engineer but am passionate about software and the possibilities it holds.
+I currently work as a controls engineer and am passionate about software and the possibilities it holds.
 
 <!--
 **Ferrington/Ferrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
